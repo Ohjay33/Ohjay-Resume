@@ -1,7 +1,7 @@
 function over(element){
-    element.style.backgroundColor = 'yellow'
+    element.style.backgroundColor = 'blue'
 }
 
 function out(element){
-    element.style.backgroundColor = 'lime'
+    element.style.backgroundColor = 'red'
 }
